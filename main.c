@@ -1,4 +1,5 @@
 #include <stdio.h>
+#error "Blah!"
 
 int main(int argc, char** argv)
 {
